@@ -333,11 +333,11 @@ module.exports = {
     logo: '/logo.png',
     nav: [
       {
-        text: 'Docs',
+        text: 'ලේඛන',
         ariaLabel: 'Documentation Menu',
         items: [
           {
-            text: 'Guide',
+            text: 'මග පෙන්වීම',
             link: '/guide/introduction'
           },
           {
