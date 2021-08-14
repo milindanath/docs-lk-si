@@ -341,23 +341,23 @@ module.exports = {
             link: '/guide/introduction'
           },
           {
-            text: 'Style Guide',
+            text: 'රීති මාලාව',
             link: '/style-guide/'
           },
           {
-            text: 'Cookbook',
+            text: 'පොත',
             link: '/cookbook/'
           },
           {
-            text: 'Examples',
+            text: 'උදාහරණ',
             link: '/examples/markdown'
           },
           {
-            text: 'Contribute',
+            text: 'දායක වන්න',
             link: '/guide/contributing/writing-guide'
           },
           {
-            text: 'Migration from Vue 2',
+            text: 'Vue 2 වල සිට මාරුවීම',
             link: '/guide/migration/introduction'
           }
         ]
