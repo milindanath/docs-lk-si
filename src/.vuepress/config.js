@@ -363,36 +363,36 @@ module.exports = {
         ]
       },
       {
-        text: 'API Reference',
+        text: 'API යොමුව',
         link: '/api/'
       },
       {
-        text: 'Ecosystem',
+        text: 'ඉකෝ පද්ධතිය',
         items: [
           {
-            text: 'Community',
+            text: 'ප්‍රජාව',
             ariaLabel: 'Community Menu',
             items: [
               {
-                text: 'Team',
+                text: 'කණ්ඩායම',
                 link: '/community/team/'
               },
               {
-                text: 'Partners',
+                text: 'හවුල්කරුවෝ',
                 link: '/community/partners'
               },
               {
-                text: 'Join',
+                text: 'සම්බන්ධ වෙන්න',
                 link: '/community/join/'
               },
               {
-                text: 'Themes',
+                text: 'තේමාවන්',
                 link: '/community/themes/'
               }
             ]
           },
           {
-            text: 'Official Projects',
+            text: 'නිල ව්‍යාපෘති',
             items: [
               {
                 text: 'Vue Router',
@@ -415,11 +415,11 @@ module.exports = {
                 link: 'https://devtools.vuejs.org'
               },
               {
-                text: 'Weekly news',
+                text: 'සතියේ පුවත්',
                 link: 'https://news.vuejs.org/'
               },
               {
-                text: 'Blog',
+                text: 'Blog එක',
                 link: 'https://blog.vuejs.org/'
               }
             ]
@@ -427,25 +427,25 @@ module.exports = {
         ]
       },
       {
-        text: 'Support Vue',
+        text: 'Vue වලට සහයෝගය දෙන්න',
         link: '/support-vuejs/',
         items: [
           {
-            text: 'One-time Donations',
+            text: 'එක වරක් ආධාර කිරීම්',
             link: '/support-vuejs/#one-time-donations'
           },
           {
-            text: 'Recurring Pledges',
+            text: 'පුනරාවර්තන තැන්පතු',
             link: '/support-vuejs/#recurring-pledges'
           },
           {
-            text: 'T-Shirt Shop',
+            text: 'T-Shirt කඩය',
             link: 'https://vue.threadless.com/'
           }
         ]
       },
       {
-        text: 'Translations',
+        text: 'වෙනත් භාෂා',
         link: '#',
         items: [
           // Translation maintainers: Please include the link below to the English documentation
